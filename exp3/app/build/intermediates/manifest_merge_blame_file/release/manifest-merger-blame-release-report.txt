@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.exp3"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:6:5-30:19
+12        android:allowBackup="true"
+12-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\86155\.gradle\caches\transforms-3\4cb2d3ae910a25e4d3b75b6b0d8d1b11\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:8:9-65
+15        android:extractNativeLibs="false"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:13:9-35
+21        android:theme="@style/Theme.Exp3" >
+21-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:14:9-42
+22        <activity
+22-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:17:9-25:20
+23            android:name="com.example.exp3.MainActivity"
+23-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:18:13-41
+24            android:exported="true" >
+24-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:19:13-36
+25            <intent-filter>
+25-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:20:13-24:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:21:17-69
+26-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:21:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:23:17-77
+28-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:23:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:27:9-29:40
+32            android:name="com.example.exp3.MainActivity2"
+32-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:28:13-42
+33            android:exported="false" />
+33-->D:\Code\AndroidStudioProjects\exp3\app\src\main\AndroidManifest.xml:29:13-37
+34    </application>
+35
+36</manifest>

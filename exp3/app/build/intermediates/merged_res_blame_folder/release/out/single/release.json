@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/xml_backup_rules.xml.flat",
+        "source": "com.example.exp3.app-main-20:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.exp3.app-main-20:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable_dog.png.flat",
+        "source": "com.example.exp3.app-main-20:/drawable/dog.png"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable_background2.jpg.flat",
+        "source": "com.example.exp3.app-main-20:/drawable/background2.jpg"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/layout_activity_main2.xml.flat",
+        "source": "com.example.exp3.app-main-20:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.exp3.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable_rabbit.png.flat",
+        "source": "com.example.exp3.app-main-20:/drawable/rabbit.png"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/layout_activity_main.xml.flat",
+        "source": "com.example.exp3.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable_background.jpg.flat",
+        "source": "com.example.exp3.app-main-20:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.exp3.app-main-20:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.exp3.app-main-20:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.exp3.app-merged_res-19:/drawable_rabbit2.png.flat",
+        "source": "com.example.exp3.app-main-20:/drawable/rabbit2.png"
+    }
+]

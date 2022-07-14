@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable_dog.png.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable_rabbit2.png.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable\\rabbit2.png"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable_rabbit.png.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable\\rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\86155\\.gradle\\daemon\\7.3.3\\com.example.exp3.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]
